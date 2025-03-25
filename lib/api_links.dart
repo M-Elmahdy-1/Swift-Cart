@@ -1,5 +1,5 @@
 class ApiLinks {
-  static const String server = "https://elmahdyzone.com/ecommerce";
+  static const String server = "https://your-domain.com/ecommerce";
   static const String test = "$server/test.php";
 
   // Auth
